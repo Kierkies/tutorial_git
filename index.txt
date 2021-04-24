@@ -1,1 +1,3 @@
-witaj swicei 
+witaj swiecie
+
+jest git
